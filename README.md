@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @foxopop
+- 👋 Hi, I’m @foxopop, french
 - 👀 Interested in Python, despite my 55 years old. Particulary BattleDev et AdventOfCode
 - 🌱 Beginner in GitHub 
 - made a first android application with kivy
