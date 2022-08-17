@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @foxopop
-- 👀 I’m interested in Python, despite my 55 years old. Particulary BattleDev et AdventOfCode
-- 🌱 I’m currently learning GitHub 
+- 👀 Interested in Python, despite my 55 years old. Particulary BattleDev et AdventOfCode
+- 🌱 Beginner in GitHub 
+- made a first android application with kivy
+- devlopping the second one with beeware
 
 <!---
 foxopop/foxopop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
